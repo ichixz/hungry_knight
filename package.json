@@ -1,0 +1,17 @@
+{
+  "name": "hungry_knight",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/pixi.js": "^4.7.2",
+    "typescript": "^2.9.0-dev.20180323"
+  },
+  "dependencies": {},
+  "description": ""
+}
